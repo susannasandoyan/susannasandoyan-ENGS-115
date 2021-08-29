@@ -1,4 +1,4 @@
-3.Yes, it is possible.
+3.C program can never run without main function. It can just be hidden, but it does not mean that main function does not exist in the program. 
 
 4.In this example it is possible.
 
