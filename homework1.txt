@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 3.C program can never run without main function. It can just be hidden, but it does not mean that main function does not exist in the program. 
+=======
+3.Yes, it is possible.
+>>>>>>> 523e0d31741f0ee48dd201751a9a12516b1e60d0
 
 4.In this example it is possible.
 
