@@ -1,0 +1,15 @@
+1. The concept of hash function was introduced
+2.how to edit files
+3.git status(shows the modified files and shows the state in the repository)
+4.the areas of working directory and index
+5.git add
+6.staged and not staged changes(all of them are modified but the added files are staged)
+7.difference between staged area and repository
+8.git diff
+9.hash function is in the index
+10.commit the changes by commit which opens an editor
+11.the concept of branches the same as commit identifier
+12.they behave like multiple threads
+13.git branch experiment,  another commit , git checkout default, git checkout experiments
+14.then merging has to occur to the default branch by git merge experiment
+15.the last thing is the discussion of git push, if from another user something is changed we have to git pull and then git push
